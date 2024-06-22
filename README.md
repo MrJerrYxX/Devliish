@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=PYTHON%20ENCODE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%20ENCRYPTION%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20PAGE-LODDER&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%20ENCRYPTION%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
 </p>
@@ -38,10 +38,11 @@ apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
-rm -rf ENCODE
-git clone --depth=1 https://github.com/U7P4L-IN/ENCODE.git
-cd ENCODE
-python3 encode.py
+pip install rich
+pip install colorama
+git clone https://github.com/MrJerrYxX/Devliish
+cd Devliish
+python pagee.py
 ```
 <p align="center"><img src="./image/carbon.png">
 
