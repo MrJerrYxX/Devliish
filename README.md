@@ -43,20 +43,3 @@ git clone https://github.com/MrJerrYxX/Devliish
 cd Devliish
 python pagee.py
 ```
-<p align="center"><img src="./image/carbon.png">
-
-<h5 align="center"><b>TERMUX</b></h5>
-
-<p align="center"><img src="./image/demo1.jpg">
-<p align="center";><img src="./image/demo2.jpg"> 
-
-<h5 align="center"><b>KALI LINUX</b></h5>
-<p align="center"><img src="./image/demo3.png">
-<p align="center"><img src="./image/demo4.png">  
-   
-<p align="center"><img src="./image/demo5.png">
-
-# Report bugs
-If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
-
-<h5 align="center"><b>DESCRIPTION</b></h5>
