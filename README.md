@@ -17,8 +17,6 @@
 
 <h2 align="left">What is Python Encrypt ? > </h2><br>
 
-> Python Encrypt is a tool that's help you to secure your important script. You can encrypt your script by this tool. And no one can stolen your script.
-
 <br>
 <h4 align="left">TESTED ON > </h4><br>
 
