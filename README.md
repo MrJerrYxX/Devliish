@@ -3,8 +3,6 @@
 <p align="center">
       <a href="https://github.com/U7P4L-IN/ENCODE/stargazers">
       <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/ENCODE?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/ENCODE/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/ENCODE?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
       <a href="https://github.com/U7P4L-IN/ENCODE/actions/workflows/github-action.yml">
