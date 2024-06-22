@@ -18,8 +18,6 @@
    
 </br>
 
-<h2 align="left">What is Python Encrypt ? > </h2><br>
-
 <br>
 <h4 align="left">TESTED ON > </h4><br>
 
