@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20PAGE-LODDER&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PYTHON%20TOOLS%20AND%20SCRIPT%20ENCRYPTION%20TOOLS%20BY%20U7P4L!&descAlignY=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20PAGE-LODDER&fontSize=90&animation=fadeIn&fontAlignY=38&desc=EAUUU%20TOOLS%20TOKEN%20GENRATE%TOOL%20%20BY%20J3RRY!&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
 </p>
