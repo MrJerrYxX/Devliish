@@ -1,12 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20PAGE-LODDER&fontSize=90&animation=fadeIn&fontAlignY=38&desc=EAUUU%20TOOLS%20TOKEN%20GENRATE%TOOL%20%20BY%20J3RRY!&descAlignY=51&descAlign=62" width="100%"/>
 </p>
 
-</p>
-   <p align="center">
-      <a href="https://github.com/U7P4L-IN/ENCODE/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/U7P4L-IN/ENCODE?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/U7P4L-IN/ENCODE/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/U7P4L-IN/ENCODE?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
       <a href="https://github.com/U7P4L-IN/ENCODE/actions/workflows/github-action.yml">
@@ -54,11 +48,6 @@ python pagee.py
 <p align="center"><img src="./image/demo4.png">  
    
 <p align="center"><img src="./image/demo5.png">
-
-### Tools Languages :
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ENCODE&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" width="100%"/>
-</p>
 
 # Report bugs
 If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
