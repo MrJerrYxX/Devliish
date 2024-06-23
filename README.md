@@ -4,7 +4,6 @@
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
-      <a href="https://github.com/U7P4L-IN/ENCODE/actions/workflows/github-action.yml">
    </p>
    
 </br>
@@ -18,8 +17,8 @@
 * Ubuntu
 * Perrot Sec OS
 
-## Contributing
-Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
+## tool information 
+This tool sends comments from Facebook pages automatically in Python and also extracts the token of the Facebook account
 
 <h2 align="center">INSTALL TOOL ON TERMUX > </h2><br>
  
